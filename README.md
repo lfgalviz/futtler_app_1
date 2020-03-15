@@ -1,5 +1,4 @@
-# soy_rico
-
+# Mi first App
 A new Flutter project.
 
 ## Getting Started
