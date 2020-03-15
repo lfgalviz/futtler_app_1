@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
             child: Text('Soy Rico'
             ),
           ),
-          backgroundColor: Colors.blueGrey[900],
+          backg roundColor: Colors.blueGrey[900],
         ),
         body: Center(
           child: Image(
