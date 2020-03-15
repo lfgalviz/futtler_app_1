@@ -1,4 +1,4 @@
-# Mi first App
+# Mi First App
 A new Flutter project.
 
 ## Getting Started
